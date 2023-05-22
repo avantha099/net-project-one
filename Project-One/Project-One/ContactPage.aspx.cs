@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Project-One
+namespace ProjectOne
 {
     public partial class ContactPage : System.Web.UI.Page
     {

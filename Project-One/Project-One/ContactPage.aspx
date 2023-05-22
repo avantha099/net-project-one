@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ContactPage.aspx.cs" Inherits="Project-One.ContactPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ContactPage.aspx.cs" Inherits="ProjectOne.ContactPage" %>
 
 <!DOCTYPE html>
 
@@ -16,7 +16,7 @@
 
 
             <div class="container">
-                <img src="images/contact.jpg" />
+                <img src="image/contact.jpg" />
 
             </div>
             <div class="PB">
@@ -64,7 +64,7 @@
 
                     <div style="margin-bottom: 10px; margin-top: 25px;">
 
-                        <asp:Button ID="Button1" runat="server" Text="Sign In" CssClass="button1" OnClick="Button1_Click" />
+                        <asp:Button ID="Button1" runat="server" Text="Submit" CssClass="button1" OnClick="Button1_Click" />
 
 
 
